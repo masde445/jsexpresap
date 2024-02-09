@@ -1,0 +1,15 @@
+h1{
+    font-size: 100px;
+}
+form{
+    color:red;
+    font-size: 40px;
+}
+button{
+    width: 100px;
+    height: 40px;
+}
+input{
+    width: 250px;
+    height: 40px;
+}
